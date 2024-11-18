@@ -1,0 +1,1 @@
+Prior to this class I have had little experience with CI/CD. I learned about it a bit during my internship. However, I was not in charge of setting it up and I did not utalize it often enough to fully understand it.
